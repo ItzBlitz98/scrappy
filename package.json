@@ -1,5 +1,5 @@
 {
-  "name": "Scrappy",
+  "name": "scrappy",
   "version": "0.0.1",
   "description": "A cli wallpaper downloader",
   "main": "index.js",
