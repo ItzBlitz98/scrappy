@@ -1,0 +1,11 @@
+#what program you want to preview the image in (w3m or feh is supported)
+previewWith: w3m
+
+#if you are using feh how long untill you want feh to close automatically (in milliseconds)
+previewClose: 3000
+
+#Set up some predefined paths that scrappy can ask where you want to save
+#Must end with a forward slash
+savePaths:
+  - path: /home/geewiz/Pictures/Wallpapers/test/Animals/
+  - path: /home/geewiz/Pictures/Wallpapers/test/Nature/
