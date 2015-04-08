@@ -6,6 +6,6 @@ previewClose: 3000
 
 #Set up some predefined paths that scrappy can ask where you want to save
 #Must end with a forward slash
-savePaths:
-  - path: /home/geewiz/Pictures/Wallpapers/test/Animals/
-  - path: /home/geewiz/Pictures/Wallpapers/test/Nature/
+# savePaths:
+#   - path: /home/geewiz/Pictures/Wallpapers/test/Animals/
+#   - path: /home/geewiz/Pictures/Wallpapers/test/Nature/
