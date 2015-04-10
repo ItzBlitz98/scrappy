@@ -4,6 +4,11 @@ previewWith: w3m
 #if you are using feh how long untill you want feh to close automatically (in milliseconds)
 previewClose: 3000
 
+#What size you want to preview to be resized too
+#This example is for a 80x30 terminal
+previewWidth: 482
+previewHeight: 362
+
 #Set up some predefined paths that scrappy can ask where you want to save
 #Must end with a forward slash
 # savePaths:

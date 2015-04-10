@@ -9,6 +9,7 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "cheerio": "^0.18.0",
+    "gm": "^1.17.0",
     "inquirer": "^0.8.0",
     "js-yaml": "^3.2.7",
     "request": "^2.51.0"
