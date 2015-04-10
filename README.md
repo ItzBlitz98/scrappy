@@ -13,6 +13,8 @@ http://a.pomf.se/aodhno.webm
 ## Install
 Ensure you have either w3m or feh installed.
 
+*Note if you are using w3m you will also need imagemagick installed
+
 Clone the repository:
 
 ```
@@ -31,4 +33,4 @@ Run or create a bash/zsh alias too the bin/scrappy executable.
 Scrappy comes with a config file with some default options.
 w3m does not support inline image viewing on all terminal emulators if w3m doesn't work with your terminal change w3m out for feh.
 
-You can also set up some folders to save images too and it promt you to select the folder upon saving. An example is provided on how to do this.
+You can also set up some folders to save images too and it will prompt you to select the folder upon saving. An example is provided on how to do this.
