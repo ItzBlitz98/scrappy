@@ -8,7 +8,7 @@ Want a site added ? Create an issue with a request and i'll see what i can do. F
 If a Picture Is Worth a Thousand Words, What Is a Video Worth? Probably a hell of a lot more.
 Here is a short video demoing what it does.
 
-http://a.pomf.se/qmyjdo.webm
+http://a.pomf.se/aodhno.webm
 
 ## Install
 Ensure you have either w3m or feh installed.
