@@ -2,6 +2,8 @@
 # scrappy
 A cli app for searching for (preferably) lax licensed wallpapers.
 
+Scrappy can currently scrape unsplash.com, wallhaven.cc, photocollections.io & magdeleine.co
+
 Want a site added ? Create an issue with a request and i'll see what i can do. Feel free to contibute your own pull requests are welcome.
 
 ## Preview
